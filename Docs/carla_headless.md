@@ -24,7 +24,7 @@ This tutorial was tested in Ubuntu 16.04 and using NVIDIA 384.11 drivers.
 ## Preliminaries
 
 A few things need to be working in your server before. Latest NVIDIA Drivers,
-OpenGL, VirtualGL(VGL), TurboVNC 2.11.
+OpenGL, VirtualGL(VGL), TurboVNC 2.1.1.
 
 <h4>NVIDIA Drivers</h4>
 
@@ -46,7 +46,7 @@ Follow this tutorial and install vgl:
 
 <h4>TurboVNC</h4>
 
-Follow the tutorial below to install TurboVNC 2.11:
+Follow the tutorial below to install TurboVNC 2.1.1:
 [Installing TurboVNC](https://cdn.rawgit.com/TurboVNC/turbovnc/2.1.1/doc/index.html#hd005001)
 
 WARNING: Take care on which VNC you install as it may not be compatible with
